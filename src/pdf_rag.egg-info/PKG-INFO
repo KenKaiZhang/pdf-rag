@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: pdf-rag
+Version: 0.1.0
+Summary: A RAG system for PDFs with table support.
+Author-email: Your Name <you@example.com>
+Project-URL: Homepage, https://github.com/your-username/pdf-rag
+Requires-Python: >=3.8
+Requires-Dist: streamlit
+Requires-Dist: langchain
+Requires-Dist: langchain-community
+Requires-Dist: langchain-core
+Requires-Dist: langchain-huggingface
+Requires-Dist: pdfplumber
+Requires-Dist: PyMuPDF
+Requires-Dist: chromadb
+Requires-Dist: ollama
