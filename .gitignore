@@ -3,3 +3,4 @@ chroma_data/
 build/
 data/
 __pycache__/
+src/pdf_rag.egg-info/
